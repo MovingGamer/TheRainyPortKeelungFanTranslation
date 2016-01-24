@@ -1,7 +1,7 @@
 #Change log
 #23 Jan 16: MovingGamer finished literal translation
 #22 Jan 16: MovingGamer finished transcription in Simplified and Traditional script
-#		: MovingGamer started literal translation
+#         : MovingGamer started literal translation
 #19 Jan 16: MovingGamer started transcription
 
 #简体 version
